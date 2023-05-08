@@ -1,29 +1,29 @@
 # geogebra
 
-Enter an expression and press ENTER to get the answer.
-If the calculator cannot calculate the expression, it will notify you.
-sign '=' does not need to be written in the expression.
-spaces are important.
-
-example : x ^ 2 + sin x / cos(x) + e (x * pi)
-
-Calculator can perform the following operations:
-a + b
-a - b
-a * b
-ab
-a / b
-a ^ b
-sqrt(a, b)
-sin(a)
-cos(a)
-tg(a)
-ctg(a)
-sec(a)
-csc(a)
-arcsin(a)
-arccos(a)
-arctg(a)
-arcctg(a)
-log(a, b) base a logarithm
-ln(a) natural logarithm
+Enter an expression and press ENTER to get the answer. <br />
+If the calculator cannot calculate the expression, it will notify you. <br />
+sign '=' does not need to be written in the expression. <br />
+spaces are important. <br />
+<br />
+example : x ^ 2 + sin x / cos(x) + e (x * pi) <br />
+<br />
+Calculator can perform the following operations: <br />
+a + b <br />
+a - b <br />
+a * b <br />
+ab    <br />
+a / b <br />
+a ^ b  <br />
+sqrt(a, b) <br />
+sin(a) <br />
+cos(a) <br />
+tg(a) <br />
+ctg(a) <br />
+sec(a) <br />
+csc(a) <br />
+arcsin(a) <br />
+arccos(a) <br />
+arctg(a) <br />
+arcctg(a) <br />
+log(a, b)                 base a logarithm <br />
+ln(a)                     natural logarithm <br />
